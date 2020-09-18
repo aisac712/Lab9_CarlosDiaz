@@ -1,10 +1,10 @@
-You Belong To The City;8;1985;Glenn Frey;nose
-Dance, Dance;8;2005;FOB;unedr no se que
-Lo Malo de Ser Bueno;9;2007;El Cuarteto de Nos;Porfiao
-The Pretender;9;2007;Foo Fighter;Echoes, Silence, Patience & Grace
-Gives You Hell;6;2008;The All-American Rejects;When the World Comes Down
-Centuries;5;2014;FOB;American Beauty / American Psycho
-Ten Tonne Skeleton;6;20014;Royal Blood;Royal Blood
-El duelo;8;1995;Laley;Invisible
-Break;6;2009;Three Days Grace;Life Starts Now
-Feel Invincible;7;2016;Skillet;Unleashed
+You Belong To The City;8;1985;Glenn Frey;nose;3.1999999999999997
+Dance, Dance;8;2005;FOB;unedr no se que;2.8833333333333333
+Lo Malo de Ser Bueno;9;2007;El Cuarteto de Nos;Porfiao;3.6
+The Pretender;9;2007;Foo Fighter;Echoes, Silence, Patience & Grace;2.8833333333333333
+Gives You Hell;6;2008;The All-American Rejects;When the World Comes Down;3.6
+Centuries;5;2014;FOB;American Beauty / American Psycho;2.8833333333333333
+Ten Tonne Skeleton;6;20014;Royal Blood;Royal Blood;3.1999999999999997
+El duelo;8;1995;Laley;Invisible;3.6
+Break;6;2009;Three Days Grace;Life Starts Now;2.8833333333333333
+Feel Invincible;7;2016;Skillet;Unleashed;3.1999999999999997

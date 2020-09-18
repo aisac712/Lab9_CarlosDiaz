@@ -46,7 +46,7 @@ public class PlayList {
     
     @Override
     public String toString() {
-        return nombreP + ", rolitas:" + rolitas;
+        return nombreP + " " + rolitas.size()+" canciones "+duracion+" minutos";
     }
     
 }
